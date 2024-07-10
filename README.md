@@ -94,7 +94,7 @@ For any questions or inquiries, please contact Timothy Belekollie at:
 ![Logo](https://github-readme-stats.vercel.app/api?username=TimothyBelekollie&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-## Authors
+## Author
 
 - [@TimothyBelekollie](https://www.github.com/TimothyBelekollie)
 
