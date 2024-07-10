@@ -99,14 +99,4 @@ For any questions or inquiries, please contact Timothy Belekollie at:
 - [@TimothyBelekollie](https://www.github.com/TimothyBelekollie)
 
 
-## 👋 Hi, I’m @TimothyBelekollie
-## 🚀 About Me
-
-- 👀 I’m a graduate of the University of Lay Adventist of Kigali with First Class Upper Division Honor, majoring in Software Engineering.
-- 🌱 I’m specialize in the following stacks: PHP(Laravel) and Python(Django)
-- 🌱 I have work with the following database: MYSQl, Mongodb, POSTGRESQl, Oracle and Mysql workbench.
-- 🌱 I am also good aspiring Fullstack Data Scientist and Artificial Intelligence Engineer.
-- 🌱 I am comfortable working either online or physical.
--🌱 I am also into Data Analyst
-
 
